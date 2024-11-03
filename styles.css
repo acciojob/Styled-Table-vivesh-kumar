@@ -1,1 +1,21 @@
 /* your code */
+#main{
+	border-color:green;
+	/* border-start-end-radius:7px; */
+	border-radius:5px
+}
+
+.head{
+	background-color:lightblue;
+	color:purple
+	
+}
+.row2,.row4{
+	background-color:gray;
+	color:white;
+	
+}
+.row1,.row3{
+	background-color:lightgreen;
+	color:white;
+}
